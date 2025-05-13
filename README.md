@@ -1,6 +1,7 @@
 #  Cryptonix 
 
 Cryptonix je aplikácia postavená na modernom frameworku **Tauri** (frontend v **HTML/CSS/JavaScript**, backend v **Rust**), ktorá umožňuje **generovať**, **analyzovať** a **bezpečne ukladať** heslá.
+
 ---
 
 ##  Hlavné funkcie
