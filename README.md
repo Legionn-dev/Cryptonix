@@ -40,7 +40,6 @@ Cryptonix/
 
 ##  Technológie
 
-|------------------|---------------------------------------------------------------|
 | Vrstva           | Technológia                                                   |
 |------------------|---------------------------------------------------------------|
 | **Frontend**     | HTML, CSS, JavaScript                                         |
@@ -49,7 +48,6 @@ Cryptonix/
 | **Bezpečnosť**   | šifrovanie pomocou Rust knižníc (`aes-gcm`, `argon2`, `rand`) |
 | **Úložisko**     | Lokálny súbor                                                 |
 | **Platforma**    | Tauri (Windows)                                               |
-|------------------|---------------------------------------------------------------|
 ---
 
 ##  Inštalácia
