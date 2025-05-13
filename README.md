@@ -27,17 +27,6 @@ Cryptonix je aplikácia postavená na modernom frameworku **Tauri** (frontend v 
 - Responzívny dizajn, vhodný pre desktop aj menšie obrazovky
 ---
 
-###  Štruktúra projektu
-Cryptonix/
-├── src-tauri/         # Rust backend (Tauri)
-│   ├── main.rs        # Hlavný súbor aplikácie
-│   └── lib.rs         # Šifrovanie, ukladanie, čítanie
-├── src/               # Frontend
-│   ├── index.html     # UI rozhranie
-│   ├── style.css      # Štýly
-│   └── main.js        # JavaScript logika 
-└── package.json
-
 ##  Technológie
 
 | Vrstva           | Technológia                                                   |
@@ -52,19 +41,9 @@ Cryptonix/
 
 ##  Inštalácia
 
-
-
+#### 1. Stiahnite si setup.exe súbor z Github latest relese
+#### 2. Po stiahnutí spustite inštalacný súbor
+#### 3. Počas inštalácie Vás može operačný systém windows upozorniť, že aplikácia pochádza z neznámeho zdroja, stačí len potvrdiť a pokračovať ďalej
+#### 4. Následujte inštrukcie na obrazovke
 ---
-
-###  Lokálne spustenie
-
-```bash
-
-git clone https://github.com/kubo-toto-si-zmen/spravca-hesiel.git
-cd spravca-hesiel
-
-
-npm install
-
-
-npm run tauri dev
+Autor: Legionn-dev
