@@ -42,7 +42,7 @@ Cryptonix je aplikácia postavená na modernom frameworku **Tauri** (frontend v 
 ##  Inštalácia
 
 #### 1. Stiahnite si Cryptonix-setup.exe súbor z **[Github latest relese](https://github.com/Legionn-dev/Cryptonix/releases/latest)**
-#### 2. Po stiahnutí spustite inštalacný súbor
+#### 2. Po stiahnutí spustite inštalačný súbor
 #### 3. Počas inštalácie Vás može operačný systém windows upozorniť, že aplikácia pochádza z neznámeho zdroja, stačí len potvrdiť a pokračovať ďalej
 #### 4. Následujte inštrukcie na obrazovke
 ---
