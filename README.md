@@ -37,7 +37,7 @@ Cryptonix je aplikácia postavená na modernom frameworku **Tauri** (frontend v 
 | **UI Framework** | Vanilla JS                                                    |
 | **Bezpečnosť**   | šifrovanie pomocou Rust knižníc (`aes-gcm`, `argon2`, `rand`) |
 | **Úložisko**     | Lokálny súbor                                                 |
-| **Platforma**    | Tauri (Windows)                                               |
+| **Platforma**    | Windows                                                       |
 ---
 
 ##  Inštalácia
